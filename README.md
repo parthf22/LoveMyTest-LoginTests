@@ -1,6 +1,6 @@
 # 🧪 LoveMyTest — Login Page E2E Tests
 
-[![Playwright E2E Tests](https://github.com/YOUR_USERNAME/LoveMyTest-LoginTests/actions/workflows/playwright-ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/LoveMyTest-LoginTests/actions/workflows/playwright-ci.yml)
+[![Playwright E2E Tests](https://github.com/parthf22/LoveMyTest-LoginTests/actions/workflows/playwright-ci.yml/badge.svg)](https://github.com/parthf22/LoveMyTest-LoginTests/actions/workflows/playwright-ci.yml)
 
 Automated end-to-end test suite for the [LoveMyTestOnline](https://www.lovemytestonline.com) login page, built with **Playwright** and **Node.js**.
 
