@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Test artifacts (auto-generated on each run)
+test-results/
+playwright-report/
+screenshots/
+blob-report/
+
+# Generated reports (auto-generated via globalTeardown)
+reports/test-results.json
+reports/test-report.html
+reports/test-report.pdf
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
